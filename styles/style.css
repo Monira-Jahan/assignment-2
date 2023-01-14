@@ -1,0 +1,77 @@
+/* header start */
+/* Navigation bar style */
+.header{
+    width:100%;
+    height:1250px;
+    background-color: rgba(255, 144, 14, 0.1);
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.nav-title{
+    font-family:'Work Sans';
+    font-weight: 700;
+    font-size: 35px;
+    padding-left:200px;
+}
+nav ul{
+    display:flex;
+    align-items: center;
+    font-family: 'Work Sans';
+    font-weight: 500;
+    font-size:18px;
+    padding-right:200px;
+
+}
+nav li{
+    list-style:none;
+    margin-left:50px;
+}
+
+/* Banner style */
+
+.banner{
+    /* display:grid; */
+    padding-left: 530px;
+    padding-right: 530px;
+    text-align: center;
+    /* align-items: center; */
+}
+.banner-title{
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 64px;
+    padding-left: 50px;
+    padding-right:70px;
+    margin-bottom:30px
+}
+.banner-description{
+    color: #727272;
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 14px;
+}
+.btn-primary{
+    color: #FFFFFF;
+    font-family:'Work Sans';
+    font-weight: 600;
+    font-size:20px;
+    border:0;
+    padding: 10px 20px;
+    height:64px;
+    margin-top: 10px;
+    border-radius:5px;
+    background:orangered;
+}
+.image{
+    border-radius:8px;
+    /* margin: 30px 240px; */
+    padding-top:50px;
+    padding-left: 200px;
+}
+
+/* Header End */
+
+/* main section start */
