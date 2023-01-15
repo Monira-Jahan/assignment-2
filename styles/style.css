@@ -111,14 +111,14 @@ nav li{
 .feature-info{
     padding:200px 280px 0px 420px;
 }
-.vertical-line{
+/* .vertical-line{
     width:5px;
     height:146px;
     border:2px solid #FF900E;
     background: #FF900E;
     /* border-left: #FF900E; */
     
-}
+/* } */ 
 .feature-title{
     font-family:'Work Sans';
     font-style: normal;
@@ -233,6 +233,7 @@ nav li{
     display: flex;
     margin-left: 250px;
 
+
 }
 .btn-info{
     color:#707070;
@@ -241,9 +242,10 @@ nav li{
     border:2px solid orange;
     height:64px;
     border-radius:8px;
-    background:#FAFAFA;;
+    background:#FAFAFA;
+    margin-right: 30px;
     margin-left:70px;
-    margin-top:20px;
+    margin-top:40px;
     margin-bottom:40px;
     width: 242px;
     height:242px;
