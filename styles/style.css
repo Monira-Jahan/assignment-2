@@ -84,7 +84,9 @@ nav li{
 .image{
     border-radius:8px;
     padding-top:50px;
+    /* padding-left: 200px; */
     padding-left: 200px;
+    padding-right: 200px;
 }
 
 /* Header End */
@@ -108,6 +110,14 @@ nav li{
 }
 .feature-info{
     padding:200px 280px 0px 420px;
+}
+.vertical-line{
+    width:5px;
+    height:146px;
+    border:2px solid #FF900E;
+    background: #FF900E;
+    /* border-left: #FF900E; */
+    
 }
 .feature-title{
     font-family:'Work Sans';
@@ -199,6 +209,9 @@ nav li{
 }
 
 /* some facts */
+.facts{
+    margin-top: 30px;
+}
 
 .fact-title{
     font-family:'Work Sans';
@@ -206,6 +219,7 @@ nav li{
     font-size: 45px;
     padding-left: 300px;
     padding-top: 50px;
+    margin-top: 100px;
 }
 .fact-description{
     font-family: 'Work Sans';
@@ -268,7 +282,7 @@ nav li{
     font-weight: 700;
     font-size: 45px;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 100px;
     margin-bottom: 20px;
 }
 .sponsor-description{
@@ -295,7 +309,7 @@ nav li{
 
 /* Extra section-> Contact */
 .contact-title{
-    margin-top: 100px;
+    margin-top: 120px;
     text-align: center;
     font-family: 'Work Sans';
     font-weight: 700;
@@ -374,7 +388,5 @@ footer p{
 }
 
 /* Media Query */
-
-
 
 
